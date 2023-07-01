@@ -1,0 +1,273 @@
+2023-05-02 11:24:04,759 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com//r/borrow/comments/2gptdi/comment/cklf76z/'}.
+2023-05-02 11:24:04,768 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): redditloans.com:443
+2023-05-02 11:24:05,203 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gptdi%2Fcomment%2Fcklf76z%2F HTTP/1.1" 422 94
+2023-05-02 11:24:05,205 root ERROR Error fetching data; error:
+2023-05-02 11:24:05,205 root ERROR 422 Client Error: Unprocessable Entity for url: https://redditloans.com/api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gptdi%2Fcomment%2Fcklf76z%2F
+2023-05-02 11:24:05,206 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com//r/borrow/comments/2gptdi/comment/cklf76z/'}.
+2023-05-02 11:24:05,290 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gptdi%2Fcomment%2Fcklf76z%2F HTTP/1.1" 422 94
+2023-05-02 11:24:05,292 root ERROR Error fetching data; error:
+2023-05-02 11:24:05,293 root ERROR 422 Client Error: Unprocessable Entity for url: https://redditloans.com/api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gptdi%2Fcomment%2Fcklf76z%2F
+2023-05-02 11:24:05,293 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com//r/borrow/comments/2gptdi/comment/cklf76z/'}.
+2023-05-02 11:24:05,377 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gptdi%2Fcomment%2Fcklf76z%2F HTTP/1.1" 422 94
+2023-05-02 11:24:05,379 root ERROR Error fetching data; error:
+2023-05-02 11:24:05,379 root ERROR 422 Client Error: Unprocessable Entity for url: https://redditloans.com/api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gptdi%2Fcomment%2Fcklf76z%2F
+2023-05-02 11:24:05,379 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com//r/borrow/comments/2gptdi/comment/cklf76z/'}.
+2023-05-02 11:24:05,469 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gptdi%2Fcomment%2Fcklf76z%2F HTTP/1.1" 422 94
+2023-05-02 11:24:05,470 root ERROR Error fetching data; error:
+2023-05-02 11:24:05,470 root ERROR 422 Client Error: Unprocessable Entity for url: https://redditloans.com/api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gptdi%2Fcomment%2Fcklf76z%2F
+2023-05-02 11:24:05,470 root ERROR Max retries exceeded. Exiting.
+2023-05-02 11:24:05,470 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com//r/borrow/comments/2gqje3/comment/ckln7ot/'}.
+2023-05-02 11:24:05,553 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gqje3%2Fcomment%2Fckln7ot%2F HTTP/1.1" 422 94
+2023-05-02 11:24:05,554 root ERROR Error fetching data; error:
+2023-05-02 11:24:05,554 root ERROR 422 Client Error: Unprocessable Entity for url: https://redditloans.com/api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gqje3%2Fcomment%2Fckln7ot%2F
+2023-05-02 11:24:05,554 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com//r/borrow/comments/2gqje3/comment/ckln7ot/'}.
+2023-05-02 11:24:05,631 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gqje3%2Fcomment%2Fckln7ot%2F HTTP/1.1" 422 94
+2023-05-02 11:24:05,631 root ERROR Error fetching data; error:
+2023-05-02 11:24:05,632 root ERROR 422 Client Error: Unprocessable Entity for url: https://redditloans.com/api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gqje3%2Fcomment%2Fckln7ot%2F
+2023-05-02 11:24:05,632 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com//r/borrow/comments/2gqje3/comment/ckln7ot/'}.
+2023-05-02 11:24:05,715 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gqje3%2Fcomment%2Fckln7ot%2F HTTP/1.1" 422 94
+2023-05-02 11:24:05,716 root ERROR Error fetching data; error:
+2023-05-02 11:24:05,716 root ERROR 422 Client Error: Unprocessable Entity for url: https://redditloans.com/api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gqje3%2Fcomment%2Fckln7ot%2F
+2023-05-02 11:24:05,716 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com//r/borrow/comments/2gqje3/comment/ckln7ot/'}.
+2023-05-02 11:24:05,798 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gqje3%2Fcomment%2Fckln7ot%2F HTTP/1.1" 422 94
+2023-05-02 11:24:05,799 root ERROR Error fetching data; error:
+2023-05-02 11:24:05,800 root ERROR 422 Client Error: Unprocessable Entity for url: https://redditloans.com/api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gqje3%2Fcomment%2Fckln7ot%2F
+2023-05-02 11:24:05,800 root ERROR Max retries exceeded. Exiting.
+2023-05-02 11:24:05,801 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com//r/borrow/comments/2gqje3/comment/cklrqcz/'}.
+2023-05-02 11:24:05,885 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gqje3%2Fcomment%2Fcklrqcz%2F HTTP/1.1" 422 94
+2023-05-02 11:24:05,885 root ERROR Error fetching data; error:
+2023-05-02 11:24:05,885 root ERROR 422 Client Error: Unprocessable Entity for url: https://redditloans.com/api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gqje3%2Fcomment%2Fcklrqcz%2F
+2023-05-02 11:24:05,885 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com//r/borrow/comments/2gqje3/comment/cklrqcz/'}.
+2023-05-02 11:24:05,973 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gqje3%2Fcomment%2Fcklrqcz%2F HTTP/1.1" 422 94
+2023-05-02 11:24:05,974 root ERROR Error fetching data; error:
+2023-05-02 11:24:05,974 root ERROR 422 Client Error: Unprocessable Entity for url: https://redditloans.com/api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gqje3%2Fcomment%2Fcklrqcz%2F
+2023-05-02 11:24:05,974 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com//r/borrow/comments/2gqje3/comment/cklrqcz/'}.
+2023-05-02 11:24:06,53 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gqje3%2Fcomment%2Fcklrqcz%2F HTTP/1.1" 422 94
+2023-05-02 11:24:06,54 root ERROR Error fetching data; error:
+2023-05-02 11:24:06,54 root ERROR 422 Client Error: Unprocessable Entity for url: https://redditloans.com/api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gqje3%2Fcomment%2Fcklrqcz%2F
+2023-05-02 11:24:06,54 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com//r/borrow/comments/2gqje3/comment/cklrqcz/'}.
+2023-05-02 11:24:06,146 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gqje3%2Fcomment%2Fcklrqcz%2F HTTP/1.1" 422 94
+2023-05-02 11:24:06,146 root ERROR Error fetching data; error:
+2023-05-02 11:24:06,146 root ERROR 422 Client Error: Unprocessable Entity for url: https://redditloans.com/api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gqje3%2Fcomment%2Fcklrqcz%2F
+2023-05-02 11:24:06,146 root ERROR Max retries exceeded. Exiting.
+2023-05-02 11:24:06,146 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com//r/borrow/comments/2grr63/comment/cklxifm/'}.
+2023-05-02 11:24:06,223 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2grr63%2Fcomment%2Fcklxifm%2F HTTP/1.1" 422 94
+2023-05-02 11:24:06,224 root ERROR Error fetching data; error:
+2023-05-02 11:24:06,224 root ERROR 422 Client Error: Unprocessable Entity for url: https://redditloans.com/api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2grr63%2Fcomment%2Fcklxifm%2F
+2023-05-02 11:24:06,224 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com//r/borrow/comments/2grr63/comment/cklxifm/'}.
+2023-05-02 11:24:06,309 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2grr63%2Fcomment%2Fcklxifm%2F HTTP/1.1" 422 94
+2023-05-02 11:24:06,309 root ERROR Error fetching data; error:
+2023-05-02 11:24:06,309 root ERROR 422 Client Error: Unprocessable Entity for url: https://redditloans.com/api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2grr63%2Fcomment%2Fcklxifm%2F
+2023-05-02 11:24:06,309 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com//r/borrow/comments/2grr63/comment/cklxifm/'}.
+2023-05-02 11:24:06,391 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2grr63%2Fcomment%2Fcklxifm%2F HTTP/1.1" 422 94
+2023-05-02 11:24:06,392 root ERROR Error fetching data; error:
+2023-05-02 11:24:06,392 root ERROR 422 Client Error: Unprocessable Entity for url: https://redditloans.com/api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2grr63%2Fcomment%2Fcklxifm%2F
+2023-05-02 11:24:06,393 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com//r/borrow/comments/2grr63/comment/cklxifm/'}.
+2023-05-02 11:24:06,487 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2grr63%2Fcomment%2Fcklxifm%2F HTTP/1.1" 422 94
+2023-05-02 11:24:06,487 root ERROR Error fetching data; error:
+2023-05-02 11:24:06,487 root ERROR 422 Client Error: Unprocessable Entity for url: https://redditloans.com/api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2grr63%2Fcomment%2Fcklxifm%2F
+2023-05-02 11:24:06,487 root ERROR Max retries exceeded. Exiting.
+2023-05-02 11:24:06,488 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com//r/borrow/comments/2grgew/comment/ckly56i/'}.
+2023-05-02 11:24:06,563 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2grgew%2Fcomment%2Fckly56i%2F HTTP/1.1" 422 94
+2023-05-02 11:24:06,564 root ERROR Error fetching data; error:
+2023-05-02 11:24:06,564 root ERROR 422 Client Error: Unprocessable Entity for url: https://redditloans.com/api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2grgew%2Fcomment%2Fckly56i%2F
+2023-05-02 11:24:06,564 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com//r/borrow/comments/2grgew/comment/ckly56i/'}.
+2023-05-02 11:24:06,648 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2grgew%2Fcomment%2Fckly56i%2F HTTP/1.1" 422 94
+2023-05-02 11:24:06,649 root ERROR Error fetching data; error:
+2023-05-02 11:24:06,649 root ERROR 422 Client Error: Unprocessable Entity for url: https://redditloans.com/api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2grgew%2Fcomment%2Fckly56i%2F
+2023-05-02 11:24:06,649 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com//r/borrow/comments/2grgew/comment/ckly56i/'}.
+2023-05-02 11:24:06,730 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2grgew%2Fcomment%2Fckly56i%2F HTTP/1.1" 422 94
+2023-05-02 11:24:06,730 root ERROR Error fetching data; error:
+2023-05-02 11:24:06,730 root ERROR 422 Client Error: Unprocessable Entity for url: https://redditloans.com/api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2grgew%2Fcomment%2Fckly56i%2F
+2023-05-02 11:24:06,730 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com//r/borrow/comments/2grgew/comment/ckly56i/'}.
+2023-05-02 11:24:06,814 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2grgew%2Fcomment%2Fckly56i%2F HTTP/1.1" 422 94
+2023-05-02 11:24:06,814 root ERROR Error fetching data; error:
+2023-05-02 11:24:06,814 root ERROR 422 Client Error: Unprocessable Entity for url: https://redditloans.com/api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2grgew%2Fcomment%2Fckly56i%2F
+2023-05-02 11:24:06,814 root ERROR Max retries exceeded. Exiting.
+2023-05-02 11:24:06,814 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com//r/borrow/comments/2gsi3a/comment/ckm2ucf/'}.
+2023-05-02 11:24:06,896 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gsi3a%2Fcomment%2Fckm2ucf%2F HTTP/1.1" 422 94
+2023-05-02 11:24:06,897 root ERROR Error fetching data; error:
+2023-05-02 11:24:06,898 root ERROR 422 Client Error: Unprocessable Entity for url: https://redditloans.com/api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gsi3a%2Fcomment%2Fckm2ucf%2F
+2023-05-02 11:24:06,898 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com//r/borrow/comments/2gsi3a/comment/ckm2ucf/'}.
+2023-05-02 11:24:06,982 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gsi3a%2Fcomment%2Fckm2ucf%2F HTTP/1.1" 422 94
+2023-05-02 11:24:06,983 root ERROR Error fetching data; error:
+2023-05-02 11:24:06,983 root ERROR 422 Client Error: Unprocessable Entity for url: https://redditloans.com/api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gsi3a%2Fcomment%2Fckm2ucf%2F
+2023-05-02 11:24:06,983 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com//r/borrow/comments/2gsi3a/comment/ckm2ucf/'}.
+2023-05-02 11:24:07,67 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gsi3a%2Fcomment%2Fckm2ucf%2F HTTP/1.1" 422 94
+2023-05-02 11:24:07,68 root ERROR Error fetching data; error:
+2023-05-02 11:24:07,69 root ERROR 422 Client Error: Unprocessable Entity for url: https://redditloans.com/api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gsi3a%2Fcomment%2Fckm2ucf%2F
+2023-05-02 11:24:07,69 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com//r/borrow/comments/2gsi3a/comment/ckm2ucf/'}.
+2023-05-02 11:24:07,156 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gsi3a%2Fcomment%2Fckm2ucf%2F HTTP/1.1" 422 94
+2023-05-02 11:24:07,158 root ERROR Error fetching data; error:
+2023-05-02 11:24:07,159 root ERROR 422 Client Error: Unprocessable Entity for url: https://redditloans.com/api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gsi3a%2Fcomment%2Fckm2ucf%2F
+2023-05-02 11:24:07,159 root ERROR Max retries exceeded. Exiting.
+2023-05-02 11:24:07,160 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com//r/borrow/comments/2gsu6k/comment/ckm744e/'}.
+2023-05-02 11:24:07,249 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gsu6k%2Fcomment%2Fckm744e%2F HTTP/1.1" 422 94
+2023-05-02 11:24:07,250 root ERROR Error fetching data; error:
+2023-05-02 11:24:07,250 root ERROR 422 Client Error: Unprocessable Entity for url: https://redditloans.com/api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gsu6k%2Fcomment%2Fckm744e%2F
+2023-05-02 11:24:07,250 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com//r/borrow/comments/2gsu6k/comment/ckm744e/'}.
+2023-05-02 11:24:07,341 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gsu6k%2Fcomment%2Fckm744e%2F HTTP/1.1" 422 94
+2023-05-02 11:24:07,342 root ERROR Error fetching data; error:
+2023-05-02 11:24:07,342 root ERROR 422 Client Error: Unprocessable Entity for url: https://redditloans.com/api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gsu6k%2Fcomment%2Fckm744e%2F
+2023-05-02 11:24:07,342 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com//r/borrow/comments/2gsu6k/comment/ckm744e/'}.
+2023-05-02 11:24:07,422 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gsu6k%2Fcomment%2Fckm744e%2F HTTP/1.1" 422 94
+2023-05-02 11:24:07,424 root ERROR Error fetching data; error:
+2023-05-02 11:24:07,424 root ERROR 422 Client Error: Unprocessable Entity for url: https://redditloans.com/api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gsu6k%2Fcomment%2Fckm744e%2F
+2023-05-02 11:24:07,425 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com//r/borrow/comments/2gsu6k/comment/ckm744e/'}.
+2023-05-02 11:24:07,518 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gsu6k%2Fcomment%2Fckm744e%2F HTTP/1.1" 422 94
+2023-05-02 11:24:07,518 root ERROR Error fetching data; error:
+2023-05-02 11:24:07,518 root ERROR 422 Client Error: Unprocessable Entity for url: https://redditloans.com/api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gsu6k%2Fcomment%2Fckm744e%2F
+2023-05-02 11:24:07,518 root ERROR Max retries exceeded. Exiting.
+2023-05-02 11:24:07,519 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com//r/borrow/comments/2gt1wc/comment/ckmcug0/'}.
+2023-05-02 11:24:07,594 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gt1wc%2Fcomment%2Fckmcug0%2F HTTP/1.1" 422 94
+2023-05-02 11:24:07,594 root ERROR Error fetching data; error:
+2023-05-02 11:24:07,594 root ERROR 422 Client Error: Unprocessable Entity for url: https://redditloans.com/api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gt1wc%2Fcomment%2Fckmcug0%2F
+2023-05-02 11:24:07,595 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com//r/borrow/comments/2gt1wc/comment/ckmcug0/'}.
+2023-05-02 11:24:07,672 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gt1wc%2Fcomment%2Fckmcug0%2F HTTP/1.1" 422 94
+2023-05-02 11:24:07,673 root ERROR Error fetching data; error:
+2023-05-02 11:24:07,674 root ERROR 422 Client Error: Unprocessable Entity for url: https://redditloans.com/api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gt1wc%2Fcomment%2Fckmcug0%2F
+2023-05-02 11:24:07,674 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com//r/borrow/comments/2gt1wc/comment/ckmcug0/'}.
+2023-05-02 11:24:07,766 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gt1wc%2Fcomment%2Fckmcug0%2F HTTP/1.1" 422 94
+2023-05-02 11:24:07,767 root ERROR Error fetching data; error:
+2023-05-02 11:24:07,767 root ERROR 422 Client Error: Unprocessable Entity for url: https://redditloans.com/api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gt1wc%2Fcomment%2Fckmcug0%2F
+2023-05-02 11:24:07,767 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com//r/borrow/comments/2gt1wc/comment/ckmcug0/'}.
+2023-05-02 11:24:07,845 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gt1wc%2Fcomment%2Fckmcug0%2F HTTP/1.1" 422 94
+2023-05-02 11:24:07,845 root ERROR Error fetching data; error:
+2023-05-02 11:24:07,846 root ERROR 422 Client Error: Unprocessable Entity for url: https://redditloans.com/api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gt1wc%2Fcomment%2Fckmcug0%2F
+2023-05-02 11:24:07,846 root ERROR Max retries exceeded. Exiting.
+2023-05-02 11:24:07,846 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com//r/borrow/comments/2gts36/comment/ckmgknn/'}.
+2023-05-02 11:24:07,921 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gts36%2Fcomment%2Fckmgknn%2F HTTP/1.1" 422 94
+2023-05-02 11:24:07,921 root ERROR Error fetching data; error:
+2023-05-02 11:24:07,921 root ERROR 422 Client Error: Unprocessable Entity for url: https://redditloans.com/api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gts36%2Fcomment%2Fckmgknn%2F
+2023-05-02 11:24:07,921 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com//r/borrow/comments/2gts36/comment/ckmgknn/'}.
+2023-05-02 11:24:08,2 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gts36%2Fcomment%2Fckmgknn%2F HTTP/1.1" 422 94
+2023-05-02 11:24:08,3 root ERROR Error fetching data; error:
+2023-05-02 11:24:08,3 root ERROR 422 Client Error: Unprocessable Entity for url: https://redditloans.com/api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gts36%2Fcomment%2Fckmgknn%2F
+2023-05-02 11:24:08,3 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com//r/borrow/comments/2gts36/comment/ckmgknn/'}.
+2023-05-02 11:24:08,88 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gts36%2Fcomment%2Fckmgknn%2F HTTP/1.1" 422 94
+2023-05-02 11:24:08,89 root ERROR Error fetching data; error:
+2023-05-02 11:24:08,89 root ERROR 422 Client Error: Unprocessable Entity for url: https://redditloans.com/api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gts36%2Fcomment%2Fckmgknn%2F
+2023-05-02 11:24:08,89 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com//r/borrow/comments/2gts36/comment/ckmgknn/'}.
+2023-05-02 11:24:08,176 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gts36%2Fcomment%2Fckmgknn%2F HTTP/1.1" 422 94
+2023-05-02 11:24:08,176 root ERROR Error fetching data; error:
+2023-05-02 11:24:08,176 root ERROR 422 Client Error: Unprocessable Entity for url: https://redditloans.com/api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gts36%2Fcomment%2Fckmgknn%2F
+2023-05-02 11:24:08,176 root ERROR Max retries exceeded. Exiting.
+2023-05-02 11:24:08,176 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com//r/borrow/comments/2gtxjq/comment/ckmt9si/'}.
+2023-05-02 11:24:08,267 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gtxjq%2Fcomment%2Fckmt9si%2F HTTP/1.1" 422 94
+2023-05-02 11:24:08,268 root ERROR Error fetching data; error:
+2023-05-02 11:24:08,268 root ERROR 422 Client Error: Unprocessable Entity for url: https://redditloans.com/api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gtxjq%2Fcomment%2Fckmt9si%2F
+2023-05-02 11:24:08,268 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com//r/borrow/comments/2gtxjq/comment/ckmt9si/'}.
+2023-05-02 11:24:08,353 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gtxjq%2Fcomment%2Fckmt9si%2F HTTP/1.1" 422 94
+2023-05-02 11:24:08,354 root ERROR Error fetching data; error:
+2023-05-02 11:24:08,355 root ERROR 422 Client Error: Unprocessable Entity for url: https://redditloans.com/api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gtxjq%2Fcomment%2Fckmt9si%2F
+2023-05-02 11:24:08,355 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com//r/borrow/comments/2gtxjq/comment/ckmt9si/'}.
+2023-05-02 11:24:08,445 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gtxjq%2Fcomment%2Fckmt9si%2F HTTP/1.1" 422 94
+2023-05-02 11:24:08,445 root ERROR Error fetching data; error:
+2023-05-02 11:24:08,446 root ERROR 422 Client Error: Unprocessable Entity for url: https://redditloans.com/api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gtxjq%2Fcomment%2Fckmt9si%2F
+2023-05-02 11:24:08,446 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com//r/borrow/comments/2gtxjq/comment/ckmt9si/'}.
+2023-05-02 11:24:08,523 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gtxjq%2Fcomment%2Fckmt9si%2F HTTP/1.1" 422 94
+2023-05-02 11:24:08,524 root ERROR Error fetching data; error:
+2023-05-02 11:24:08,524 root ERROR 422 Client Error: Unprocessable Entity for url: https://redditloans.com/api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gtxjq%2Fcomment%2Fckmt9si%2F
+2023-05-02 11:24:08,524 root ERROR Max retries exceeded. Exiting.
+2023-05-02 11:24:08,524 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com//r/borrow/comments/2gusge/comment/ckn346a/'}.
+2023-05-02 11:24:08,622 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gusge%2Fcomment%2Fckn346a%2F HTTP/1.1" 422 94
+2023-05-02 11:24:08,623 root ERROR Error fetching data; error:
+2023-05-02 11:24:08,623 root ERROR 422 Client Error: Unprocessable Entity for url: https://redditloans.com/api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gusge%2Fcomment%2Fckn346a%2F
+2023-05-02 11:24:08,623 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com//r/borrow/comments/2gusge/comment/ckn346a/'}.
+2023-05-02 11:24:08,700 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gusge%2Fcomment%2Fckn346a%2F HTTP/1.1" 422 94
+2023-05-02 11:24:08,700 root ERROR Error fetching data; error:
+2023-05-02 11:24:08,700 root ERROR 422 Client Error: Unprocessable Entity for url: https://redditloans.com/api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gusge%2Fcomment%2Fckn346a%2F
+2023-05-02 11:24:08,700 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com//r/borrow/comments/2gusge/comment/ckn346a/'}.
+2023-05-02 11:24:08,784 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gusge%2Fcomment%2Fckn346a%2F HTTP/1.1" 422 94
+2023-05-02 11:24:08,784 root ERROR Error fetching data; error:
+2023-05-02 11:24:08,784 root ERROR 422 Client Error: Unprocessable Entity for url: https://redditloans.com/api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gusge%2Fcomment%2Fckn346a%2F
+2023-05-02 11:24:08,784 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com//r/borrow/comments/2gusge/comment/ckn346a/'}.
+2023-05-02 11:24:08,867 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gusge%2Fcomment%2Fckn346a%2F HTTP/1.1" 422 94
+2023-05-02 11:24:08,867 root ERROR Error fetching data; error:
+2023-05-02 11:24:08,867 root ERROR 422 Client Error: Unprocessable Entity for url: https://redditloans.com/api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gusge%2Fcomment%2Fckn346a%2F
+2023-05-02 11:24:08,867 root ERROR Max retries exceeded. Exiting.
+2023-05-02 11:24:08,868 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com//r/borrow/comments/2gwd4a/comment/ckn4uwc/'}.
+2023-05-02 11:24:08,949 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gwd4a%2Fcomment%2Fckn4uwc%2F HTTP/1.1" 422 94
+2023-05-02 11:24:08,950 root ERROR Error fetching data; error:
+2023-05-02 11:24:08,950 root ERROR 422 Client Error: Unprocessable Entity for url: https://redditloans.com/api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gwd4a%2Fcomment%2Fckn4uwc%2F
+2023-05-02 11:24:08,950 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com//r/borrow/comments/2gwd4a/comment/ckn4uwc/'}.
+2023-05-02 11:24:09,30 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gwd4a%2Fcomment%2Fckn4uwc%2F HTTP/1.1" 422 94
+2023-05-02 11:24:09,30 root ERROR Error fetching data; error:
+2023-05-02 11:24:09,30 root ERROR 422 Client Error: Unprocessable Entity for url: https://redditloans.com/api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gwd4a%2Fcomment%2Fckn4uwc%2F
+2023-05-02 11:24:09,30 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com//r/borrow/comments/2gwd4a/comment/ckn4uwc/'}.
+2023-05-02 11:24:09,114 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gwd4a%2Fcomment%2Fckn4uwc%2F HTTP/1.1" 422 94
+2023-05-02 11:24:09,115 root ERROR Error fetching data; error:
+2023-05-02 11:24:09,115 root ERROR 422 Client Error: Unprocessable Entity for url: https://redditloans.com/api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gwd4a%2Fcomment%2Fckn4uwc%2F
+2023-05-02 11:24:09,115 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com//r/borrow/comments/2gwd4a/comment/ckn4uwc/'}.
+2023-05-02 11:24:09,209 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gwd4a%2Fcomment%2Fckn4uwc%2F HTTP/1.1" 422 94
+2023-05-02 11:24:09,210 root ERROR Error fetching data; error:
+2023-05-02 11:24:09,210 root ERROR 422 Client Error: Unprocessable Entity for url: https://redditloans.com/api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gwd4a%2Fcomment%2Fckn4uwc%2F
+2023-05-02 11:24:09,210 root ERROR Max retries exceeded. Exiting.
+2023-05-02 11:24:09,211 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com//r/borrow/comments/2gwiha/comment/ckn6i96/'}.
+2023-05-02 11:24:09,287 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gwiha%2Fcomment%2Fckn6i96%2F HTTP/1.1" 422 94
+2023-05-02 11:24:09,287 root ERROR Error fetching data; error:
+2023-05-02 11:24:09,288 root ERROR 422 Client Error: Unprocessable Entity for url: https://redditloans.com/api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gwiha%2Fcomment%2Fckn6i96%2F
+2023-05-02 11:24:09,288 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com//r/borrow/comments/2gwiha/comment/ckn6i96/'}.
+2023-05-02 11:24:09,373 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gwiha%2Fcomment%2Fckn6i96%2F HTTP/1.1" 422 94
+2023-05-02 11:24:09,374 root ERROR Error fetching data; error:
+2023-05-02 11:24:09,374 root ERROR 422 Client Error: Unprocessable Entity for url: https://redditloans.com/api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gwiha%2Fcomment%2Fckn6i96%2F
+2023-05-02 11:24:09,374 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com//r/borrow/comments/2gwiha/comment/ckn6i96/'}.
+2023-05-02 11:24:09,462 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gwiha%2Fcomment%2Fckn6i96%2F HTTP/1.1" 422 94
+2023-05-02 11:24:09,462 root ERROR Error fetching data; error:
+2023-05-02 11:24:09,463 root ERROR 422 Client Error: Unprocessable Entity for url: https://redditloans.com/api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2F%2Fr%2Fborrow%2Fcomments%2F2gwiha%2Fcomment%2Fckn6i96%2F
+2023-05-02 11:24:09,463 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com//r/borrow/comments/2gwiha/comment/ckn6i96/'}.
+2023-05-02 11:38:40,202 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com/r/borrow/comments/2gptdi/comment/cklf76z/'}.
+2023-05-02 11:38:40,206 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): redditloans.com:443
+2023-05-02 11:38:40,517 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fborrow%2Fcomments%2F2gptdi%2Fcomment%2Fcklf76z%2F HTTP/1.1" 200 12
+2023-05-02 11:38:40,518 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com/r/borrow/comments/2gqje3/comment/ckln7ot/'}.
+2023-05-02 11:38:40,603 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fborrow%2Fcomments%2F2gqje3%2Fcomment%2Fckln7ot%2F HTTP/1.1" 200 12
+2023-05-02 11:38:40,605 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com/r/borrow/comments/2gqje3/comment/cklrqcz/'}.
+2023-05-02 11:38:40,736 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fborrow%2Fcomments%2F2gqje3%2Fcomment%2Fcklrqcz%2F HTTP/1.1" 200 12
+2023-05-02 11:38:40,737 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com/r/borrow/comments/2grr63/comment/cklxifm/'}.
+2023-05-02 11:38:40,870 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fborrow%2Fcomments%2F2grr63%2Fcomment%2Fcklxifm%2F HTTP/1.1" 200 12
+2023-05-02 11:38:40,870 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com/r/borrow/comments/2grgew/comment/ckly56i/'}.
+2023-05-02 11:38:40,995 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fborrow%2Fcomments%2F2grgew%2Fcomment%2Fckly56i%2F HTTP/1.1" 200 12
+2023-05-02 11:38:40,996 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com/r/borrow/comments/2gsi3a/comment/ckm2ucf/'}.
+2023-05-02 11:38:41,124 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fborrow%2Fcomments%2F2gsi3a%2Fcomment%2Fckm2ucf%2F HTTP/1.1" 200 12
+2023-05-02 11:38:41,124 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com/r/borrow/comments/2gsu6k/comment/ckm744e/'}.
+2023-05-02 11:38:41,252 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fborrow%2Fcomments%2F2gsu6k%2Fcomment%2Fckm744e%2F HTTP/1.1" 200 12
+2023-05-02 11:38:41,252 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com/r/borrow/comments/2gt1wc/comment/ckmcug0/'}.
+2023-05-02 11:38:41,382 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fborrow%2Fcomments%2F2gt1wc%2Fcomment%2Fckmcug0%2F HTTP/1.1" 200 12
+2023-05-02 11:38:41,384 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com/r/borrow/comments/2gts36/comment/ckmgknn/'}.
+2023-05-02 11:38:41,516 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fborrow%2Fcomments%2F2gts36%2Fcomment%2Fckmgknn%2F HTTP/1.1" 200 12
+2023-05-02 11:38:41,516 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com/r/borrow/comments/2gtxjq/comment/ckmt9si/'}.
+2023-05-02 11:38:41,645 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fborrow%2Fcomments%2F2gtxjq%2Fcomment%2Fckmt9si%2F HTTP/1.1" 200 12
+2023-05-02 11:38:41,646 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com/r/borrow/comments/2gusge/comment/ckn346a/'}.
+2023-05-02 11:38:41,770 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fborrow%2Fcomments%2F2gusge%2Fcomment%2Fckn346a%2F HTTP/1.1" 200 12
+2023-05-02 11:38:41,770 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com/r/borrow/comments/2gwd4a/comment/ckn4uwc/'}.
+2023-05-02 11:38:41,899 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fborrow%2Fcomments%2F2gwd4a%2Fcomment%2Fckn4uwc%2F HTTP/1.1" 200 12
+2023-05-02 11:38:41,900 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com/r/borrow/comments/2gwiha/comment/ckn6i96/'}.
+2023-05-02 11:38:42,36 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fborrow%2Fcomments%2F2gwiha%2Fcomment%2Fckn6i96%2F HTTP/1.1" 200 12
+2023-05-02 11:38:42,36 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com/r/borrow/comments/2gvxj2/comment/cknjvl2/'}.
+2023-05-02 11:38:42,162 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fborrow%2Fcomments%2F2gvxj2%2Fcomment%2Fcknjvl2%2F HTTP/1.1" 200 12
+2023-05-02 11:38:42,163 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com/r/borrow/comments/2gvcx0/comment/cknojp8/'}.
+2023-05-02 11:38:42,287 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fborrow%2Fcomments%2F2gvcx0%2Fcomment%2Fcknojp8%2F HTTP/1.1" 200 12
+2023-05-02 11:38:42,287 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com/r/borrow/comments/2gyr3q/comment/cknrgv6/'}.
+2023-05-02 11:38:42,409 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fborrow%2Fcomments%2F2gyr3q%2Fcomment%2Fcknrgv6%2F HTTP/1.1" 200 12
+2023-05-02 11:38:42,410 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com/r/borrow/comments/2gze8n/comment/cknwmw9/'}.
+2023-05-02 11:38:42,541 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fborrow%2Fcomments%2F2gze8n%2Fcomment%2Fcknwmw9%2F HTTP/1.1" 200 12
+2023-05-02 11:38:42,541 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com/r/borrow/comments/2gzhiq/comment/ckof9hh/'}.
+2023-05-02 11:38:42,665 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fborrow%2Fcomments%2F2gzhiq%2Fcomment%2Fckof9hh%2F HTTP/1.1" 200 12
+2023-05-02 11:38:42,667 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com/r/borrow/comments/2gsnek/comment/ckoisry/'}.
+2023-05-02 11:38:42,802 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fborrow%2Fcomments%2F2gsnek%2Fcomment%2Fckoisry%2F HTTP/1.1" 200 12
+2023-05-02 11:38:42,803 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com/r/borrow/comments/2h1tc0/comment/ckokh0o/'}.
+2023-05-02 11:38:42,928 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fborrow%2Fcomments%2F2h1tc0%2Fcomment%2Fckokh0o%2F HTTP/1.1" 200 12
+2023-05-02 11:38:42,929 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com/r/borrow/comments/2gzn4t/comment/ckomp1u/'}.
+2023-05-02 11:38:43,56 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fborrow%2Fcomments%2F2gzn4t%2Fcomment%2Fckomp1u%2F HTTP/1.1" 200 12
+2023-05-02 11:38:43,56 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com/r/borrow/comments/2h1nrf/comment/ckomxku/'}.
+2023-05-02 11:38:43,180 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fborrow%2Fcomments%2F2h1nrf%2Fcomment%2Fckomxku%2F HTTP/1.1" 200 12
+2023-05-02 11:38:43,181 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com/r/borrow/comments/2gzg9c/comment/ckomzl2/'}.
+2023-05-02 11:38:43,311 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fborrow%2Fcomments%2F2gzg9c%2Fcomment%2Fckomzl2%2F HTTP/1.1" 200 12
+2023-05-02 11:38:43,312 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com/r/borrow/comments/2h244g/comment/ckoq0jt/'}.
+2023-05-02 11:38:43,441 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fborrow%2Fcomments%2F2h244g%2Fcomment%2Fckoq0jt%2F HTTP/1.1" 200 12
+2023-05-02 11:38:43,443 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com/r/borrow/comments/2gzg9c/comment/ckorh6q/'}.
+2023-05-02 11:38:43,570 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fborrow%2Fcomments%2F2gzg9c%2Fcomment%2Fckorh6q%2F HTTP/1.1" 200 12
+2023-05-02 11:38:43,571 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com/r/borrow/comments/2h244g/comment/ckotv2a/'}.
+2023-05-02 11:38:43,698 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fborrow%2Fcomments%2F2h244g%2Fcomment%2Fckotv2a%2F HTTP/1.1" 200 12
+2023-05-02 11:38:43,700 root INFO API call to https://redditloans.com/api/loans/threads with header {'Content-Type': 'application/json; charset=utf-8', 'User-Agent': 'RBorrowResearch / 0.1'} and params {'url': 'https://www.reddit.com/r/borrow/comments/2gymeb/comment/ckoz3je/'}.
+2023-05-02 11:38:43,809 urllib3.connectionpool DEBUG https://redditloans.com:443 "GET /api/loans/threads?url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fborrow%2Fcomments%2F2gymeb%2Fcomment%2Fckoz3je%2F HTTP/1.1" 429 None

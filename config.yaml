@@ -1,0 +1,19 @@
+OUT:
+  SHEET_NAME: "RBorrow Study"
+  WORKSHEET_NAME: "rBorrow RAW"
+DATA:
+  DB: "loans.db"
+STAGING:
+  SUBMISSIONS_FOLDER: "staging_submissions"
+  COMMENTS_FOLDER: "staging_comments"
+  LOAN_IDS_FOLDER: "staging_loan_ids"
+  LOAN_BASIC_FOLDER: "staging_loan_basic"
+  LOAN_EVENTS_FOLDER: "staging_loan_events"
+LOGGING:
+  LOGFILE: 'log.txt'
+AUTH:
+  USERNAME: ''
+  PASSWORD: ''
+  PASSWORD_AUTHENTICATION_ID: 0
+DEBUG: true
+SUBMISSIONS_PER_COMMENT_RETRIEVAL: 36
