@@ -1,4 +1,4 @@
-# R/Borrow (RedditLoans) Data Ingest Framework
+# P2P Loans Analyzer (via r/Borrow)
 
 A research project that involves scaping r/borrow for historical loans. 
 One-time search (or possible sporadic future scrapes on an ad-hoc basis) 
